@@ -1,1 +1,8 @@
+#github上でipynbファイルが開かない場合、以下を参照ください。
 https://colab.research.google.com/github/yusuke786/movie_cocktail/blob/master/movie_cocktail_2.ipynb
+
+#映画のデータセットは以下よりダウンロード
+https://grouplens.org/datasets/movielens/
+
+#映画タグ⇔色のデータは自分で作成
+色のイメージワードをWEB検索し、タグと紐づけ
