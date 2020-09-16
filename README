@@ -5,4 +5,4 @@ https://colab.research.google.com/github/yusuke786/movie_cocktail/blob/master/mo
 https://grouplens.org/datasets/movielens/
 
 #色と映画タグを紐づけたデータ（＝tag_color)は自分で作成
-色のイメージワードをWEB検索し、合致するタグと紐づけ
+それぞれの色と関連性の高いイメージをWEB検索⇒合致するタグと紐づけ
